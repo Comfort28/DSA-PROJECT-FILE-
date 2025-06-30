@@ -1,10 +1,10 @@
-# DSA-PROJECT-FILE-
+# DSA-PROJECT (CASE STUDY 1)-
 This repository contains my work on a data analysis project as part of my coursework in the (Digital Skill-up Africa program by the incubator hub). As a data analyst in training, i am excited to apply my skills and knowledge to real-world problems and contribute to the success of @incubator hub. This project will be graded by the organization, and i look forward to receiving feedback and improving my skills. Thank you and GOD bless you.
-## PROJECT TOPIC;Amazon Product Review Analysis (CASE STUDY 1)
+## PROJECT TOPIC; Amazon Product Review Analysis (CASE STUDY 1)
 ### PROJECT OVERVEW 
-This project contains two repostries and it aims to analyse product and customer review data to generate insights that can guide product improvement, and customer engagement. I will be miking use of various data analysis techniques and tools to deliver insights and recommendations.
+This project contains one repository and it aims to analyse product and customer review data to generate insights that can guide product improvement, and customer engagement. I will be making use of various data analysis techniques and tools to deliver insights and recommendations.
 ### SKILLS DEMONSTRATED 
-- Data analysis and viisualization
+- Data analysis and visualization
 - Data cleaning and preprocessing
 - Data storytelling and communication
 ### DATA SOURCES
@@ -35,9 +35,15 @@ Use pivot tables and calculated columns where necessary to answer the following:
 F200-5500, >7500)?
 11. How does the rating relate to the level of discount?
 12. How many products have fewer than 1,000 reviews?
-1. Which categories have products with the highest discounts?
+13. Which categories have products with the highest discounts?
 14. Identify the top 5 products in terms of rating and number of reviews combined.
 Final Task: Dashboard Creation
 Using your cleaned dataset and pivot outputs, build an Excel dashboard. Unleash your
 Creativity.
+### DATA ANALYSIS 
+These are some of the DAX expressions used during my analysis;
+a. 
+### ANALYSIS
+
+
   
