@@ -10,4 +10,4 @@ This project contains two repostries and it aims to analyse product and customer
 ### DATA SOURCES
 The primary cource of data used here is scraped from Amazon product pages which is an XLSX worksheet(xlsx) and this file is an open source data that can be freely downloaded from an open source such as kaggle or any other data repository site.
 ### TOOLS USED 
-
+- WPS office for data cleaning 
