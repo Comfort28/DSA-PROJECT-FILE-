@@ -48,7 +48,8 @@ Creativity.
 ### DATA ANALYSIS 
 These are some of the DAX expressions used during my analysis;
 - =if(discount %) = 50, "yes", "no")
-- if(discounted price (200, "< "
+- =if(discounted price (200, "< ₹200 ", if(discounted price (=500, "₹200 - ₹500", ">₹500"))
+- =actual price * rating count
 ### ANALYSIS
 ### RESULTS AND RECOMMENDATIONS 
 
