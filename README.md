@@ -18,7 +18,12 @@ The primary source of data used here is scraped from Amazon product pages which 
   4. For data visualization
 ### DATA CLEANING AND PREPARATION
 1. Data loading
-2. Data Inspection; 
+2. Data Inspection; I inspected the data for quality issues including,missing calues,duplicate and data type inconsistencies.
+3. Handling missing values; I first filtered my data and imputed missing values with '0' to represent those that deal with number and 'NA' for those that deal with letters.
+4. Removal of duplicates; I used my product ID to filter out duplicates, so that my product ID would be unique.
+5. Data normalization; I scaled monetary numeric variables to a common currency (English india).
+6. Splitting of columns; I split my category column into 4 different sub-category to make data visualization more readable and easier to use for analysis.
+7. Calculated columns; I included calaculated columns into my data set for those that were needed e.g Average discount %, >=50% discount, total potential revenue, price range bucket e.t.c
 ### EXPLORATORY DATA ANALYSIS (EDA)
 Use pivot tables and calculated columns where necessary to answer the following:
 1. What is the average discount percentage by product category?
@@ -42,7 +47,8 @@ Using your cleaned dataset and pivot outputs, build an Excel dashboard. Unleash 
 Creativity.
 ### DATA ANALYSIS 
 These are some of the DAX expressions used during my analysis;
-a. 
+- =if(discount %) = 50, "yes", "no")
+- if(discounted price (200, "< "
 ### ANALYSIS
 ### RESULTS AND RECOMMENDATIONS 
 
