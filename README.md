@@ -10,7 +10,6 @@ This project contains one repository and it aims to analyse product and customer
 ### DATA SOURCES
 The primary source of data used here is scraped from Amazon product pages which is an XLSX worksheet(xlsx) and this file is an open source data that can be freely downloaded from an open source such as kaggle or any other data repository site.
 ### TOOLS USED 
-- MS excel for data collection [download here] (http://www.microsoft.com)
 - WPS office for data cleaning [download here] (https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChsSEwjR5Ynru5mOAxWJllAGHRZeENoYACICCAEQABoCZGc&ae=2&aspm=1&co=1&ase=5&gclid=EAIaIQobChMI0eWJ67uZjgMViZZQBh0WXhDaEAAYASAAEgLrR_D_BwE&ohost=www.google.com&cid=CAASJeRocrII6hmlQe5hirSKMiJPtkYevfnATsihcK-kr4E9mMVjPa8&category=acrcp_v1_43&sig=AOD64_0zy9O8vyE1SLGK8h_zacofd_hNyw&q&adurl&ved=2ahUKEwjN_IXru5mOAxWVVEEAHUPMFzYQ0Qx6BAgIEAE)
   1. For data cleaning
   2. For data manipulation
