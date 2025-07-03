@@ -50,6 +50,8 @@ These are some of the DAX expressions used during my analysis;
 - =if(discounted price (200, "< ₹200 ", if(discounted price (=500, "₹200 - ₹500", ">₹500"))
 - =actual price * rating count
 ### ANALYSIS
+![Screenshot 2025-07-03 115524](https://github.com/user-attachments/assets/664b69b2-33c2-4b5b-a9e2-1ce51fe702b8)
+
 ### RESULTS AND RECOMMENDATIONS 
 
 
